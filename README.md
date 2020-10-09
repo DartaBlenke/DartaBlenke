@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Tigre S.A. 
 - 🌱 I’m currently learning Software Engineering.
 - 👯 I’m looking to collaborate on create new things and help others devs.
 - 🤔 I’m looking for help with create and aplly my skills.
