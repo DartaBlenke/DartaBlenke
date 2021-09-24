@@ -6,5 +6,5 @@
 - 💬 Ask me about evrything.
 - 📫 How to reach me: dartagnan.blenke@gmail.com.
 - 😄 Pronouns: My name is, D'Artagnan but you can call me Darta.
-- ⚡ Fun fact: I recentlly get in the dev words and I want to lear, I have 18 years old, I left home when I was 14.
+- ⚡ Fun fact: I recentlly get in the dev words and I want to lear, I have 19 years old, I left home when I was 14.
 
