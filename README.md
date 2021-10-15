@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Software Engineering.
 - 👯 I’m looking to collaborate on create new things and help others devs.
-- 🤔 I’m looking for help with create and aplly my skills.
+- 🤔 I’m looking for help with create and aplly my skills and increase my knowledge in Mobile Dev.
 - 💬 Ask me about evrything.
 - 📫 How to reach me: dartagnan.blenke17@gmail.com.
 - 😄 Pronouns: My name is, D'Artagnan but you can call me Darta.
