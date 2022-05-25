@@ -1,4 +1,4 @@
-![Header](./github-header-image(3).png)
+![Header](.Downloads/github-header-image(3).png)
 
 <div align="center">
   <a href="https://github.com/DartaBlenke">
