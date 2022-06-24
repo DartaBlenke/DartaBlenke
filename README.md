@@ -1,7 +1,3 @@
-![Header](https://user-images.githubusercontent.com/69226024/170153636-7c4e6273-aaa4-48d1-84fd-1e1a900415b8.png)
-
-
-
 <div align="center">
   <a href="https://github.com/DartaBlenke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DartaBlenke&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
